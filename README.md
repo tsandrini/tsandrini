@@ -5,8 +5,8 @@
 
 ##  My GitHub Stats 
  
- <div>
-   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tsandrini&show_icons=true&theme=transparent&show=true&include_all_commits=true" />
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsandrini&theme=transparent&show=true" alt="tsandrini's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsandrini&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="tsandrini's language" /> 
 </div>
 
