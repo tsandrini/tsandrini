@@ -1,7 +1,22 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h3>
 
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
 
+<p align="center">
+  <a href= "https://github.com/tsandrini/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/tomas-sandrini/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href= "https://twitter.com/tomas_sandrini">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
+  </a>
+  <a href="mailto:tomas@sandrini.cz">
+    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
+  </a>
+</p>
 
 ##  My GitHub Stats 
  
