@@ -23,26 +23,8 @@
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsandrini&theme=transparent" alt="tsandrini's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsandrini&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="tsandrini's language" />
+   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsandrini&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="tsandrini's language" /> -->
+   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tsandrini&show_icons=true&theme=transparent&show=true&include_all_commits=true" />
 </div>
-
-**Expand to view**
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tsandrini&show_icons=true&theme=transparent" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/tsandrini/"><img alt="tsandrini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tsandrini&custom_title=tsandrini's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
-
-<!-- GitHub section: END -->
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsandrini&label=Profile%20views&color=0e75b6&style=flat" alt="" />
-</p>
 
 <!-- THE END -->
