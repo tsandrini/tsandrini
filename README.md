@@ -1,7 +1,7 @@
 <!-- Heading -->
 
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+  <i>hello there! 🦆</i>
 
 <p align="center">
   <a href= "https://github.com/tsandrini/">
