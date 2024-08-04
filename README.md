@@ -19,41 +19,29 @@
   💬 If you're interested in <b>working together</b>, send me a message via your preferred medium!
 </p>
 
-<h2 align="center">💻 Tech Stack 💻</h2>
+<h2 align="center">💻 Primary tech stack 💻</h2>
 <br>
 <p align="center">
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original-wordmark.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
 </p>
 <br>
 <p align="center">
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original-wordmark.svg" />
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
- 
+  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
+  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
 <h2 align="center">👩‍🔬 Stats 👨‍🔬</h2>
