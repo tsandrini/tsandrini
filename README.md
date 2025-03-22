@@ -3,15 +3,13 @@
 <p align="center">
   Hi, I'm Tomáš Sandrini (=> <b>tsandrini</b>), A freelance Software Engineer and Data Scientist
   <br>
-  <br>
-  🔬 I take joy in solving complex problems in a variety of different fields
-  <br>
-  💻 Currently focusing on DevOps, data analysis, embedded reproducible builds and Open Source
+  <!-- 💻 Currently focusing on DevOps, data analysis, embedded reproducible builds and Open Source -->
+  💻 Currently focusing on DevOps, data analysis, embedded reproducible builds and working on random Free/OSS projects
   <br>
   <br>
   💬 If you're interested in <b>working together</b>, send me a message via your preferred medium!
 </p>
-
+<!--
 <h2 align="center">💻 Primary tech stack 💻</h2>
 <br>
 <p align="center">
@@ -36,8 +34,8 @@
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </p>
-
-<h2 align="center">👩‍🔬 Stats 👨‍🔬</h2>
+-->
+<h2 align="center">👩‍🔬 Random stats and pretty numbers 👨‍🔬</h2>
 <br>
 <p align=center>
   <div align=center>
