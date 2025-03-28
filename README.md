@@ -39,10 +39,10 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/tsandrini/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/tsandrini/tsandrini" title="Go to Source">
       <img align="left" src="https://streak-stats.demolab.com/?user=tsandrini&theme=react&border=61dafb&hide_border=true" alt="tsandrini" />
     </a>
-    <a href="https://github.com/tsandrini/github-readme-stats">
+    <a href="https://github.com/tsandrini/tsandrini">
       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsandrini&title_color=61dafb&theme=react&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
