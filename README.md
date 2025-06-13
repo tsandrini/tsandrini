@@ -8,6 +8,9 @@
   <br>
   <br>
   💬 If you're interested in <b>working together</b>, send me a message via your preferred medium!
+  <br><br>
+  <strong>btw:</strong> all of my projects are also hosted on <a href="https://git.tsandrini.sh/">git.tsandrini.sh</a>
+  if you prefer to not use GitHub! 💚
 </p>
 <!--
 <h2 align="center">💻 Primary tech stack 💻</h2>
